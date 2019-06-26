@@ -334,4 +334,4 @@ source .env && sudo docker exec -i $(sudo docker-compose ps -q mysqldb) mysql -u
 
 Any thought, feedback or (hopefully not!)
 
-Developed by [@letvinz](https://twitter.com/letvinz)
+Developed by <a href="https://www.pandamedya.com.tr/" target="_blank">Panda Medya Web Tasarım</a>
